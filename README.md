@@ -4,4 +4,4 @@ This tiny jQuery plugin was developed to make creating Adobe Business Catalyst w
 
 We leverage data attributes to define lat/long keeping markup clean and easy to manage.
 
-(link:http://joe-watkins.io text: Visit joe-watkins.io for more Adobe Business Catalyst Tricks/Tips/Tutorials)
+Visit http://joe-watkins.io for more Adobe Business Catalyst Tricks,Tips,Tutorials
