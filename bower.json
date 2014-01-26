@@ -1,0 +1,13 @@
+{
+  "name": "joe-watkins/easyBCMap",
+  "version": "1.0.0",
+  "main": "",
+  "description": "A jQuery plugin for Adobe Business Catalyst web app driven Google Maps",
+  "license": "Eclipse",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
